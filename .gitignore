@@ -1,6 +1,7 @@
 /.idea
 /.out
 /.saida
+/saida/
 /alura-stickers.iml
 # Project exclude paths
 /out/
